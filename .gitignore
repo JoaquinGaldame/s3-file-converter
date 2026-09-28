@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+logs/
+*.cache
+
+# Runtime reports
+conversion-report.json
+inventario-completo.json
+
+# Local configuration containing AWS credentials
+App.config
